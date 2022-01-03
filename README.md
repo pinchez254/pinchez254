@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm peter Mugendi</h1>
 <h3 align="center">A passionate software developer from Nairobi, Kenya</h3>
 
-**Full stack engineer ✨ _special_ ✨** 
+**✨ Full stack engineer ✨** 
 
 - ⚡ Fun fact **I think I'm crazy**
 
