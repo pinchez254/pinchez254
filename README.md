@@ -16,6 +16,9 @@
 - 💬 Ask me about anything.
 - 📫 How to reach me: info.mugendi@gmail.com
 
-
 <p align="left"> <a href="https://twitter.com/real_pinchez" target="blank"><img src="https://img.shields.io/twitter/follow/real_pinchezlogo=twitter&style=for-the-badge" alt="real_pinchez" /></a> </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/pinchez254/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinche254&layout=compact)](https://github.com/pinchez254/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinchez254&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
