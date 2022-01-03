@@ -3,9 +3,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinchez254&theme=merko&show_icons=true)
 
-**pinchez254/pinchez254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full stack engineer ✨ _special_ ✨ 
 
-Here are some ideas to get you started:
+- ⚡ Fun fact **I think I'm crazy**
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500" height="auto" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
