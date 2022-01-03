@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on something new
 - 🌱 I’m currently learning webb 3
 - 👯 I’m looking to collaborate on open source javascript Projects
-- 🤔 I’m looking for help kubernates hosting
+- 🤔 I’m looking for help in deploying kubernates cluster on bare metal 
 - 💬 Ask me about anything.
 - 📫 How to reach me: info.mugendi@gmail.com
 
