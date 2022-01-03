@@ -1,6 +1,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=pinchez254&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinchez254a&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinchez254&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 **pinchez254/pinchez254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,5 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<p align="left"> <a href="https://twitter.com/real_pinchez" target="blank"><img src="https://img.shields.io/twitter/follow/coderkhalid?logo=twitter&style=for-the-badge" alt="coderkhalid" /></a> </p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pinchez254&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pinchez254)](https://github.com/anuraghazra/github-readme-stats)
