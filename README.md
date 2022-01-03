@@ -1,10 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm peter Mugendi</h1>
-<h3 align="center">A passionate software developer from Nairobi, Kenya</h3>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=pinchez254&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinchez254&theme=merko&show_icons=true)
+
+<h1 align="center">Hi 👋, I'm peter Mugendi</h1>
+<h3 align="center">A passionate software developer from Nairobi, Kenya</h3>
 
 **Full stack engineer ✨ _special_ ✨** 
 
