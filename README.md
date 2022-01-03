@@ -1,4 +1,4 @@
-### Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=pinchez254&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **pinchez254/pinchez254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
