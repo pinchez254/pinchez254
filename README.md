@@ -6,7 +6,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinchez254&theme=merko&show_icons=true)
 
 <h1 align="center">Hi 👋, I'm peter Mugendi</h1>
-<h3 align="center">A passionate software developer from Nairobi, Kenya</h3>
+<h3 align="center">A passionate software Engineer from Nairobi, Kenya</h3>
 
 **✨ Full stack engineer ✨** 
 
