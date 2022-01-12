@@ -15,7 +15,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500" height="auto" />
 
 - 🔭 I’m currently working on something new
-- 🌱 I’m currently learning webb 3
+- 🌱 I’m currently learning WEB 3.0
 - 👯 I’m looking to collaborate on open source javascript Projects
 - 🤔 I’m looking for help in deploying kubernates cluster on bare metal 
 - 💬 Ask me about anything.
