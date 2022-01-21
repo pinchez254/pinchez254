@@ -10,8 +10,8 @@
 
 **✨ Full stack engineer ✨** 
 
-- ⚡ Fun fact **I think I'm crazy **
-- 🤔🧐🤨 **My brain has too many tabs open**
+-⚡ Fun fact **I think I'm crazy**  🤔🧐 **My brain has too many tabs open🤨**
+ 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500" height="auto" />
 
 - 🔭 I’m currently working on something new
