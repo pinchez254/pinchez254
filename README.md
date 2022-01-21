@@ -6,7 +6,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinchez254&theme=merko&show_icons=true)
 
 <h1 align="center">Hi 👋, I'm peter Mugendi</h1>
-<h3 align="center">A passionate software Engineer from Nairobi, Kenya</h3>
+<h3 align="center">A passionate fullstack software Engineer from Nairobi, Kenya</h3>
 
 **✨ Full stack engineer ✨** 
 
@@ -14,10 +14,10 @@
  
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500" height="auto" />
 
-- 🔭 I’m currently working on something new
-- 🌱 I’m currently learning WEB 3.0
-- 👯 I’m looking to collaborate on open source javascript Projects
-- 🤔 I’m looking for help in deploying kubernates cluster on bare metal 
+- 🔭 currently working on something new
+- 🌑 learning WEB 3.0
+- 👯 looking to collaborate on open source javascript Projects
+- 🤔 looking for help in deploying kubernates cluster on bare metal 
 - 💬 Ask me about anything.
 - 📫 How to reach me: info.mugendi@gmail.com
 
