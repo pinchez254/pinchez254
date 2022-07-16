@@ -5,15 +5,17 @@
 <h1 align="center">Hi 👋, I'm peter Mugendi</h1>
 <h3 align="center">A passionate Software Engineer from Nairobi, Kenya</h3>
 
-**✨ Full stack engineer ✨** 
+**✨ Full Stack Software Engineer ✨** 
 
 -⚡ Fun fact **I think I'm crazy**  🤔🧐 **My brain has too many tabs open🤨**
  
+ 🥰 **In love with Go** ![icons8-golang-48 (1)](https://user-images.githubusercontent.com/39158826/179368915-b42a08d7-88eb-4b63-b7b0-2dfdc672d3ec.png) 
+
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500" height="auto" />
 
+- 👨🏾‍💻Typescript/Go developer
 - 🔭 currently working on something new
 - 🌑 learning WEB 3.0
-- 👨🏾‍💻 Javascript/Typescript developer
 - 👯 looking to collaborate on open source javascript Projects
 - 🤔 looking for help in deploying kubernates cluster on bare metal 
 - 💬 Ask me about anything.
