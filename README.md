@@ -9,7 +9,7 @@
 
 -⚡ Fun fact **I think I'm crazy**  🤔🧐 **My brain has too many tabs open🤨**
  
- 🥰 **In love with Go** ![icons8-golang-48 (1)](https://user-images.githubusercontent.com/39158826/179368915-b42a08d7-88eb-4b63-b7b0-2dfdc672d3ec.png) 
+ **In love with Go** ![icons8-golang-48 (1)](https://user-images.githubusercontent.com/39158826/179368915-b42a08d7-88eb-4b63-b7b0-2dfdc672d3ec.png) 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500" height="auto" />
 
