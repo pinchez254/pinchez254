@@ -40,7 +40,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinchez254&langs_count=10&layout=compact)]
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinchez254)](https://github.com/anuraghazra/github-readme-stats)(https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/real_pinchez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="real_pinchez" height="30" width="40" /></a>
